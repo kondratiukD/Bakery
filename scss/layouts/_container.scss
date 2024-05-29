@@ -1,0 +1,19 @@
+.container {
+  width: 100%;
+  max-width: 1288px; /* add padding 24px + 1240px */
+  margin: 0 auto;
+}
+
+// .circle {
+//   @include circle(100px, 100px, white);  /* більш читабельно та зручніше */
+// }
+
+// .circle-small {
+//   @include circle(200px, 200px, green);  /* більш читабельно та зручніше */
+// }
+
+// .circle-big {
+//   width: 200px;
+//   height: 200px;
+//   background-color: green;  /* більше вмісту та менш зручніше */
+// }
